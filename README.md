@@ -61,13 +61,13 @@ It enables:
 ## 🖥 System Screenshots
 
 ### 📤 Upload System
-(Add screenshot)
+![Upload Screen](./screenshots/document%20upload.png)
 
 ### 💬 AI Chat Interface
-(Add screenshot)
+![Chat Screen](./screenshots/ai%20response.png)
 
 ### 📊 Analytics Dashboard
-(Add screenshot)
+![Dashboard Screen](screenshots/dashboard.png)
 
 ---
 
